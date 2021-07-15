@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    display: flex;
+}
+form{
+
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+th{
+    width: 700px;
+    height: 20px;
+    background-color: rgb(8, 141, 218);
+    padding: 10px;
+    font-size: 20px;
+}
+i{
+    display: flex;
+    margin: 10px;
+    color:  red;
+}
+.fa fa-trash{
+    font-size: 14px;
+    color: red;
+    margin-left: 100px;
+}
+.fa fa-pencil-square-o{
+    font-size: 20px;
+    color: green;
+}
+td{
+    color: rgb(13, 107, 189);
+}
